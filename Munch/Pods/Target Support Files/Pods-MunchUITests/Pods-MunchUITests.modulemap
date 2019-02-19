@@ -1,0 +1,6 @@
+framework module Pods_MunchUITests {
+  umbrella header "Pods-MunchUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
